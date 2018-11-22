@@ -26,4 +26,4 @@
 
 [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/CookOff.svg)](https://github.com/vinitshahdeo/CookOff/blob/master/LICENSE) 
 [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/CookOff.svg)](https://github.com/vinitshahdeo/CookOff/network)
-[![HackerRank followers](https://img.shields.io/badge/Follow-Me-yellow.svg?label=Follow)](https://www.hackerrank.com/vinitshahdeo)
+[![HackerRank followers](https://img.shields.io/badge/Follow-Me-yellow.svg?label=Follow)](https://www.hackerrank.com/vinitshahdeo)[![CodeChef VIT](https://img.shields.io/badge/CodeChef-VIT-gray.svg)](https://www.facebook.com/codechefvituniversity/) [![CodeChef VIT](https://img.shields.io/badge/Cook-OFF-deepskyblue.svg)](https://github.com/vinitshahdeo/CookOff-4.0) 
