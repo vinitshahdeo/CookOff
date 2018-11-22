@@ -1,6 +1,6 @@
 # CookOff (GraVITas'16 Expo Questions)
 
-[![Generic badge](https://img.shields.io/badge/Cook-Off-dodgerblue.svg?style=for-the-badge)](https://www.hackerrank.com/contests/cook-off-4-0-round-1-1/challenges) [![Generic badge](https://img.shields.io/badge/CODECHEF-VITVELLORE-teal.svg?style=for-the-badge)](https://www.facebook.com/codechefvituniversity/)  [![Generic badge](https://img.shields.io/badge/graVITas-2016-crimson.svg?style=for-the-badge)](http://www.vit.ac.in/files/gravitas18/home.html) [![Generic badge](https://img.shields.io/badge/EXPO-CHALLENGES-orange.svg?style=for-the-badge)](https://www.hackerrank.com/vinitshahdeo) 
+[![Generic badge](https://img.shields.io/badge/Cook-Off-dodgerblue.svg?style=for-the-badge)](https://www.hackerrank.com/contests/cook-off-4-0-round-1-1/challenges) [![Generic badge](https://img.shields.io/badge/CODECHEF-VITVELLORE-teal.svg?style=for-the-badge)](https://www.facebook.com/codechefvituniversity/)  [![Generic badge](https://img.shields.io/badge/graVITas-2016-crimson.svg?style=for-the-badge)](http://www.vit.ac.in/files/gravitas18/home.html) [![Generic badge](https://img.shields.io/badge/EXPO-CHALLENGES-orange.svg?style=for-the-badge)](https://www.hackerrank.com/vinitshahdeo) [![Generic badge](https://img.shields.io/badge/Debugging-Output-brown.svg?style=for-the-badge)](https://github.com/vinitshahdeo/Cook-Off-3.0)
 
 ### Very Basic Output/Debugging Questions in C/C++ 
 
@@ -21,3 +21,7 @@
 #### Follow me on **[Hackerrank](https://www.hackerrank.com/vinitshahdeo)** for more updates.
 
 <hr>
+
+[![GitHub license](https://img.shields.io/github/license/vinitshahdeo/CookOff.svg)](https://github.com/vinitshahdeo/CookOff/blob/master/LICENSE) 
+[![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/CookOff.svg)](https://github.com/vinitshahdeo/CookOff/network)
+[![GitHub followers](https://img.shields.io/github/followers/vinitshahdeo.svg?label=Follow)](https://github.com/vinitshahdeo/)
